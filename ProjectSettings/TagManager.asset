@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Enemy
+  - Interactable Chest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Wall
+  - Background Elements
+  - Enemy
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4261117127
+    locked: 0
+  - name: Enemy
+    uniqueID: 1354620609
+    locked: 0
+  - name: Interactable
+    uniqueID: 4111950687
+    locked: 0
+  - name: Player
+    uniqueID: 1571731097
+    locked: 0
+  - name: Foreground
+    uniqueID: 3106106713
+    locked: 0
