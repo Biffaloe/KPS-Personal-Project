@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a01e4ae88ffca7b459d78e46db2e2a5a, type: 3}
+  m_Name: Iron Plate
+  m_EditorClassIdentifier: 
+  Id: 200
+  Name: Iron Plate
+  uiDisplay: {fileID: 21300000, guid: f624fe412f2339349a40444b20b18d32, type: 3}
+  type: 3
+  description: 
+  atkBonus: 0
+  magBonus: 0
+  defBonus: 3
+  mdfBonus: 1
+  agiBonus: 0
